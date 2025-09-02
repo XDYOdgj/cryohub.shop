@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cryohub.shop/sitemap.xml
